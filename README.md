@@ -1,3 +1,3 @@
 # Receitas de Salgado
 
-https://ysh-afk.github.io/Filmes-para-chorar
+https://ysh-afk.github.io/Receitas-de-salgado
