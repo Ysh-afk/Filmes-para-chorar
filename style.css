@@ -6,14 +6,14 @@ body{
     margin-bottom: 100px;
 }
 .chamada{
-    background: palevioletred;
-    display: flex;
+    background: brown;
+    display: flex; 
     justify-content: center;
     padding-top: 80px;
     padding-bottom: 80px;
 }
 header{
-    color:blueviolet;
+    color:rgb(87, 48, 22);
     font-size: 35px;
     border-bottom: 3px solid antiquewhite;
     padding: 20px;
@@ -43,5 +43,5 @@ h1{
 }
 .categoria-videos img:houver{
     opacity: 1.0;
-    border: 3px solid palevioletred;
+    border: 3px solid rgb(241, 241, 241);
 }
